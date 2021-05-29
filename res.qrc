@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="openfile.png">resources/openfile.png</file>
+    <file alias="newchart.png">resources/newchart.png</file>
+    <file alias="query.png">resources/query.png</file>
+    <file alias="settings.png">resources/settings.png</file>
+    <file alias="help.png">resources/help.png</file>
+</qresource>
+</RCC>
+
